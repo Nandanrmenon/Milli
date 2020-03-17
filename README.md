@@ -1,8 +1,10 @@
-**Milli is simple Gtk Theme based on Materia.**
+
+Milli is simple Gtk Theme based on Materia.
 
 -----------------
 
 Works on
+
 - Gnome
 - Cinnamon
 - Pantheon
@@ -10,3 +12,4 @@ Works on
 
 -----------------
 
+Download
