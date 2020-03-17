@@ -7,13 +7,13 @@ TopRoundness=4
 #The roundness of the bottom corners.
 BottomRoundness=4
 #The thickness (in pixels) of lines drawn.
-LineWidth=7
+LineWidth=5
 #The color (RGBA) of the outer stroke.
-OuterStrokeColor=0;;0;;0;;0
+OuterStrokeColor=200;;200;;200;;0
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=0;;0;;0;;153
+FillStartColor=0;;0;;0;;200
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=0;;0;;0;;153
+FillEndColor=0;;0;;0;;200
 #The color (RGBA) of the inner stroke.
 InnerStrokeColor=0;;0;;0;;0
 
